@@ -15,4 +15,21 @@ Add Controller Yaw/Pitch Input :
 매 프레임 호출될 때마다 현재 회전값에 입력값을 누적(add) 시킨다.
 Val 핀에는 회전량을 넣음
 Yaw : Mouse Delta X, 좌우 시점 회전
-ㅖPitch : Mouse Delta Y, 상하 시점 회전
+Pitch : Mouse Delta Y, 상하 시점 회전
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+SpringArm : 
+카메라와 캐릭터 사이에 벽이나 장애물이 끼어들 때, 카메라가 벽 뒤로 파고들거나 시야가 막히는 걸 방지하기 위함
+
+-자동 충돌 처리를 해서 뒤에 벽이 있으면 길이를 줄여 카메라를 벽 앞으로 당겨줌
+
+-Enable Camera Lag : 캐릭터가 급격히 움직여도 카메라의 움직임 지연시켜 부드럽게 함
+
+-Target Arm Length: 캐릭터로부터 카메라까지의 거리
+
+-Use Pawn Control Rotation : 컨트롤러의 회전을 SpringArm이 그대로 따라가게 함
+
+
+Orient Rotation to Movement : 
+캐릭터의 회전 방향(Yaw)을 현재 이동 방향에 맞춰주는 기능
