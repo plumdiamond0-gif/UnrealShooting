@@ -1,2 +1,8 @@
-2026/09/12-05:55:47.147 9d04 Creating DB C:\Users\plumd\Desktop\popol\UnrealShooting\ShootingGame\Saved\webcache_6613\Default\Session Storage since it was missing.
-2026/09/12-05:55:47.161 9d04 Reusing MANIFEST C:\Users\plumd\Desktop\popol\UnrealShooting\ShootingGame\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+<<<<<<< HEAD
+2026/09/13-14:16:31.485 71c Reusing MANIFEST C:\Users\plumd\Desktop\popol\UnrealShooting\ShootingGame\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/09/13-14:16:31.494 71c Recovering log #3
+2026/09/13-14:16:31.496 71c Reusing old log C:\Users\plumd\Desktop\popol\UnrealShooting\ShootingGame\Saved\webcache_6613\Default\Session Storage/000003.log 
+=======
+2026/09/13-10:27:49.780 24b0 Creating DB C:\Users\admin\Documents\GitHub\UnrealShooting\ShootingGame\Saved\webcache_6613\Default\Session Storage since it was missing.
+2026/09/13-10:27:49.785 24b0 Reusing MANIFEST C:\Users\admin\Documents\GitHub\UnrealShooting\ShootingGame\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+>>>>>>> 59875c5835f6874b5c40b9829fb2da1a7e847d71
