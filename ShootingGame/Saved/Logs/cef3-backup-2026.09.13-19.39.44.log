@@ -1,0 +1,7 @@
+[11768:18200:0914/043806.697:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11768:18200:0914/043806.725:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
+[11768:31756:0914/043806.754:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11768:18200:0914/043806.789:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19972:19712:0914/043810.543:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-38F66B81A1A4B0FFCC72420BBE751D45 will be ignored
+[11768:21800:0914/043813.113:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[11768:18200:0914/043944.460:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
