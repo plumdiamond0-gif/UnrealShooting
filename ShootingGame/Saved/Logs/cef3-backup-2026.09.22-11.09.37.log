@@ -1,0 +1,9 @@
+[24072:40652:0921/203956.858:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24072:16884:0921/203956.898:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24072:40652:0921/203956.917:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[37544:40780:0921/204001.427:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-002DA3264CA209CA65E660C633558DDA will be ignored
+[24072:31040:0921/204003.559:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[24072:31040:0922/022005.170:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[24072:40652:0922/102723.958:ERROR:device_event_log_impl.cc(196)] [10:27:23.937] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[24072:40652:0922/175649.450:ERROR:device_event_log_impl.cc(196)] [17:56:49.292] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[24072:40652:0922/200937.790:ERROR:device_event_log_impl.cc(196)] [20:09:37.769] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
