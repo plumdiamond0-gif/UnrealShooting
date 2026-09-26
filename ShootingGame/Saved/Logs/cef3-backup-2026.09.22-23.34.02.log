@@ -1,0 +1,16 @@
+[17344:39524:0922/201608.883:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17344:10476:0922/201608.932:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17344:39524:0922/201608.962:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40764:14844:0922/201613.186:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[40764:28108:0922/201613.229:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[40764:14844:0922/201613.253:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18108:12520:0922/201613.449:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-994EBF0CC970202CF24854AF3E56FE96 will be ignored
+[17344:16132:0922/201616.150:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19696:28836:0922/201618.918:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EAEFB5266C6F006CDF60DA0A3B4A3EC7 will be ignored
+[40764:40112:0922/201621.064:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[40764:14844:0922/201630.430:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17344:16132:0923/044218.810:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17344:16132:0923/052650.670:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17344:16132:0923/053231.033:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17344:39524:0923/063201.352:ERROR:device_event_log_impl.cc(196)] [06:32:01.075] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[17344:39524:0923/083402.285:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
