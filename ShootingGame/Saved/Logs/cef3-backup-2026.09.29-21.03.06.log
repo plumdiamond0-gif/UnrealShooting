@@ -1,0 +1,9 @@
+[14448:27256:0929/183432.901:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14448:2772:0929/183433.319:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14448:27256:0929/183433.480:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[36552:37876:0929/183506.964:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-894A93EA7F1E99093CEBD83DB4C373BD will be ignored
+[14448:28436:0929/194041.075:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14448:27256:0930/021143.905:ERROR:device_event_log_impl.cc(196)] [02:11:43.745] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[26560:23268:0930/033300.073:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[14448:28436:0930/033300.872:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14448:27256:0930/060306.370:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
