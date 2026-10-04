@@ -1,6 +1,3 @@
-2026/09/29-18:34:33.564 276c Reusing MANIFEST C:\Users\plumd\Desktop\popol\UnrealShooting\ShootingGame\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/29-18:34:33.580 276c Recovering log #3
-2026/09/29-18:34:33.582 276c Reusing old log C:\Users\plumd\Desktop\popol\UnrealShooting\ShootingGame\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-2026/09/30-06:03:06.125 276c Level-0 table #5: started
-2026/09/30-06:03:06.133 276c Level-0 table #5: 62093 bytes OK
-2026/09/30-06:03:06.138 276c Delete type=0 #3
+2026/10/02-04:12:22.515 7350 Reusing MANIFEST C:\Users\plumd\Desktop\popol\UnrealShooting\ShootingGame\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/02-04:12:22.519 7350 Recovering log #4
+2026/10/02-04:12:22.521 7350 Reusing old log C:\Users\plumd\Desktop\popol\UnrealShooting\ShootingGame\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
